@@ -348,7 +348,7 @@ At the bottom of each page has a corresponding traffic statistics, refer to: [ib
 
 #### SEO Title
 
-It's possible that you want the two things different. For me, my site-title is **“Jlcao Blog”** but I want the title shows in search engine is **“曹杰乐的博客 | Jlcao Blog”** which is multi-language.
+It's possible that you want the two things different. For me, my site-title is **“J Zhang Blog”** but I want the title shows in search engine is **“J Zhang Blog”** which is multi-language.
 
 So, the SEO Title is introduced to solve this problem, you can set `SEOTitle` different from `title`, and it would be only used to generate HTML `<title>` and setting DuoShuo Sharing.
 
