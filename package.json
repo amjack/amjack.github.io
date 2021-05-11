@@ -1,12 +1,12 @@
 {
-    "name": "jlcao-blog",
-    "title": "Jlcao Blog",
-    "author": "Jlcao <caojiele1225@126.com>",
-    "version": "1.7.0",
-    "homepage": "https://caojiele.com",
+    "name": "J Zhang",
+    "title": "J Zhang Blog",
+    "author": "J Zhang <amjack@126.com>",
+    "version": "1.0.0",
+    "homepage": "https://amjack.github.com",
     "repository": {
         "type": "git",
-        "url": "https://github.com/caojiele/caojiele.github.io"
+        "url": "https://amjack.github.com"
     },
     "bugs": "https://github.com/caojiele/caojiele.github.io/issues",
     "devDependencies": {
